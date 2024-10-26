@@ -43,7 +43,7 @@ jobs:
       #默认主题
       WRT_THEME: kucat
       #默认主机名
-      WRT_NAME: OWRT
+      WRT_NAME: ZN-M2
       #默认WIFI名
       WRT_WIFI: OWRT
       #默认地址
